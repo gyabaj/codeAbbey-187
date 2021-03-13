@@ -1,9 +1,6 @@
-<!DOCTYPE html>
 <html>
 <body>
-<?php
-
-echo "Random value is " . rand();
+fghhgfgha
 </body>
 
 </html>
